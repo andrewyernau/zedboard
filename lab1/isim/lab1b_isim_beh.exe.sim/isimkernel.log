@@ -1,0 +1,10 @@
+Command line:
+   lab1b_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50421
+
+Tue Feb 25 10:55:03 2025
+
+
+ Elaboration Time: 0 sec

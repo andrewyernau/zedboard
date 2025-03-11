@@ -1,0 +1,34 @@
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7z020-clg484-1 lab.ngc lab.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab_map.ncd lab.ngd lab.pcf 
+par -w -intstyle ise -ol high -mt off lab_map.ncd lab.ncd lab.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab.twx lab.ncd -o lab.twr lab.pcf 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab.ngc lab.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab.ngc lab.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab.ngc lab.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab_map.ncd lab.ngd lab.pcf 
+par -w -intstyle ise -ol high -mt off lab_map.ncd lab.ncd lab.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab.twx lab.ncd -o lab.twr lab.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab.ut lab.ncd 

@@ -1,0 +1,25 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Tue Feb 11 12:49:56 2025
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "clk" LOCATE = SITE "Y9" LEVEL 1;
+COMP "data_out<0>" LOCATE = SITE "T22" LEVEL 1;
+COMP "data_out<1>" LOCATE = SITE "T21" LEVEL 1;
+COMP "data_out<2>" LOCATE = SITE "U22" LEVEL 1;
+COMP "data_out<3>" LOCATE = SITE "U21" LEVEL 1;
+COMP "data_out<4>" LOCATE = SITE "V22" LEVEL 1;
+COMP "data_in<0>" LOCATE = SITE "F22" LEVEL 1;
+COMP "data_out<5>" LOCATE = SITE "W22" LEVEL 1;
+COMP "data_in<1>" LOCATE = SITE "G22" LEVEL 1;
+COMP "data_out<6>" LOCATE = SITE "U19" LEVEL 1;
+COMP "data_in<2>" LOCATE = SITE "H22" LEVEL 1;
+COMP "data_out<7>" LOCATE = SITE "U14" LEVEL 1;
+COMP "data_in<3>" LOCATE = SITE "F21" LEVEL 1;
+COMP "data_in<4>" LOCATE = SITE "H19" LEVEL 1;
+COMP "data_in<5>" LOCATE = SITE "H18" LEVEL 1;
+COMP "reset" LOCATE = SITE "P16" LEVEL 1;
+COMP "data_in<6>" LOCATE = SITE "H17" LEVEL 1;
+COMP "data_in<7>" LOCATE = SITE "M15" LEVEL 1;
+SCHEMATIC END;
+

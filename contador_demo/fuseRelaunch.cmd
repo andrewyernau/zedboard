@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/Universidad/Telematica/4o/SOCS-FPGAS/contador_demo/top_tb_isim_beh.exe" -prj "E:/Universidad/Telematica/4o/SOCS-FPGAS/contador_demo/top_tb_beh.prj" "work.top_tb" 

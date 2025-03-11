@@ -1,0 +1,3 @@
+vhdl work "contador_basico.vhd"
+vhdl work "top.vhd"
+vhdl work "top_tb.vhd"

@@ -1,0 +1,23 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab1c_tb_isim_beh.exe -prj E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab1c_tb_beh.prj work.lab1c_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/vga.vhd" into library work
+Parsing VHDL file "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/clock_divider.vhd" into library work
+Parsing VHDL file "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab1c.vhd" into library work
+Parsing VHDL file "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab1c_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity clock_divider [clock_divider_default]
+Compiling architecture behavioral of entity vga [vga_default]
+Compiling architecture behavioral of entity lab1c [lab1c_default]
+Compiling architecture behavior of entity lab1c_tb
+Time Resolution for simulation is 1ps.
+Compiled 10 VHDL Units
+Built simulation executable E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab1c_tb_isim_beh.exe
+Fuse Memory Usage: 35648 KB
+Fuse CPU Usage: 249 ms
