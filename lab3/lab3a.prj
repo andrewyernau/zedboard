@@ -1,0 +1,4 @@
+vhdl work "vga.vhd"
+vhdl work "ROM.vhd"
+vhdl work "mmcem2.vhd"
+vhdl work "lab3a.vhd"

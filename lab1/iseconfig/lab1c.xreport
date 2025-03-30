@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2025-03-11T09:08:39</DateModified>
+  <DateModified>2025-03-18T09:03:12</DateModified>
   <ModuleName>lab1c</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/iseconfig/lab1c.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2</ImplementationReportsDirectory>
+  <SavedFilePath>E:/Universidad/Telematica/4o/SOCS-FPGAS/lab1/iseconfig/lab1c.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>E:/Universidad/Telematica/4o/SOCS-FPGAS/lab1\</ImplementationReportsDirectory>
   <DateInitialized>2025-03-11T09:08:38</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

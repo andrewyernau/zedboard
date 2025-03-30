@@ -1,0 +1,5 @@
+vhdl isim_temp "vga.vhd"
+vhdl isim_temp "ROM.vhd"
+vhdl isim_temp "mmcem2.vhd"
+vhdl isim_temp "lab3a.vhd"
+vhdl isim_temp "lab3atb.vhd"

@@ -1,0 +1,216 @@
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 
+xst -intstyle ise -ifn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.xst" -ofn "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab3/lab3a.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc lab0.ucf -p xc7z020-clg484-1 lab3a.ngc lab3a.ngd  
+map -intstyle ise -p xc7z020-clg484-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o lab3a_map.ncd lab3a.ngd lab3a.pcf 
+par -w -intstyle ise -ol high -mt off lab3a_map.ncd lab3a.ncd lab3a.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml lab3a.twx lab3a.ncd -o lab3a.twr lab3a.pcf -ucf lab0.ucf 
+bitgen -intstyle ise -f lab3a.ut lab3a.ncd 

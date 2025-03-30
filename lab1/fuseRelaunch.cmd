@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -lib "secureip" -o "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab1c_tb_isim_beh.exe" -prj "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab1c_tb_beh.prj" "work.lab1c_tb" 
+-intstyle "ise" -incremental -lib "secureip" -o "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab1/lab1etb_isim_beh.exe" -prj "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab1/lab1etb_beh.prj" "work.lab1etb" 

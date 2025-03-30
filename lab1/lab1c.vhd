@@ -74,6 +74,8 @@ begin
 			if(clk'event and clk ='1') then --NO VA BIEN DEL TODO
 				if(enable_slow = '1') then
 					if(inhibicion_color_top = '1') then
+						rgb_out <= (others => '0');
+					else
 						if(pixel_cont_top = 20 and linea_cont_top = 20)then
 							rgb_out <= "111100000000"; --rojo
 						elsif(pixel_cont_top = 100 and linea_cont_top = 20)then
@@ -87,8 +89,6 @@ begin
 						elsif(pixel_cont_top = 400)then
 							rgb_out <= "111111111001"; --naranja
 						end if;
-					else
-						rgb_out <= rgb_in;
 					end if;
 				end if;
 			end if;

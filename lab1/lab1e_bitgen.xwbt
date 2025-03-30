@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\Universidad\Telematica\4o\SOCS-FPGAS\lab1\lab1e.ncd
+OUTFILE=E:\Universidad\Telematica\4o\SOCS-FPGAS\lab1\lab1e.bit
+FAMILY=Zynq
+PART=xc7z020-1clg484
+WORKINGDIR=E:\Universidad\Telematica\4o\SOCS-FPGAS\lab1
+LICENSE=ISE
+USER_INFO=210682935_1777487889_210736740_008

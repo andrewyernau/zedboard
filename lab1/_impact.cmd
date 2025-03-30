@@ -3,9 +3,22 @@ setMode -bs
 setMode -bs
 setMode -bs
 setCable -port auto
+setMode -bs
+setMode -bs
+setMode -ss
+setMode -sm
+setMode -hw140
+setMode -spi
+setMode -acecf
+setMode -acempm
+setMode -pff
+setMode -bs
+setMode -bs
+setMode -bs
+setCable -port auto
 Identify -inferir 
 identifyMPM 
-assignFile -p 2 -file "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab2/lab1c.bit"
+assignFile -p 2 -file "E:/Universidad/Telematica/4o/SOCS-FPGAS/lab1/lab1e.bit"
 Program -p 2 
 setMode -bs
 setMode -bs
